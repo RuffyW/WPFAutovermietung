@@ -81,7 +81,6 @@ namespace WPFAutovermietung.Finanzrechner.ViewModel
                     int vollkaskoTage = mietdauer * 15;
                     gesamtPreis += vollkaskoTage;
                 }
-
                 // Rabatt anwenden, wenn vorhanden
                 if (rabatt > 0)
                 {

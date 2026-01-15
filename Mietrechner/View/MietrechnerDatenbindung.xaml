@@ -52,7 +52,8 @@
           Height="160"
           HorizontalAlignment="Left"
           VerticalAlignment="Top"
-          Background="DarkGray">
+          Background="DarkGray"
+          IsExpanded="True">
 
             <Grid Margin="10" Background="#FFF1E7E7">
                 <Grid.RowDefinitions>
