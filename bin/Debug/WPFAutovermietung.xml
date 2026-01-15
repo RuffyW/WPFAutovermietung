@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WPFAutovermietung</name>
+    </assembly>
+    <members>
+        <member name="T:WPFAutovermietung.App">
+            <summary>
+            Interaktionslogik für "App.xaml"
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:WPFAutovermietung.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:WPFAutovermietung.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:WPFAutovermietung.Finanzrechner.ViewModel.FinanzrechnerViewModel">
+            <summary>
+            Klasse FinanzrechnerViewModel für bidirektionale Steuerung
+            </summary>
+        </member>
+        <member name="P:WPFAutovermietung.Finanzrechner.ViewModel.FinanzrechnerViewModel.Kredit">
+            <summary>
+            Parameter Kredit
+            </summary>
+            Property Kredit
+        </member>
+        <member name="P:WPFAutovermietung.Finanzrechner.ViewModel.FinanzrechnerViewModel.Zins">
+            <summary>
+            Parameter Zins
+            </summary>
+            Property Zins
+        </member>
+        <member name="P:WPFAutovermietung.Finanzrechner.ViewModel.FinanzrechnerViewModel.Rate">
+            <summary>
+            Parameter Rate (Ergebnis)
+            </summary>
+            Property Rate
+        </member>
+        <member name="P:WPFAutovermietung.Finanzrechner.ViewModel.MietrechnerViewModel.Ergebnis">
+            <summary>
+            Ergebnis des Mietpreises
+            </summary>
+        </member>
+        <member name="T:WPFAutovermietung.Finanzrechner.View.FinanzrechnerDatenbindung">
+            <summary>
+            FinanzrechnerDatenbindung
+            </summary>
+        </member>
+        <member name="M:WPFAutovermietung.Finanzrechner.View.FinanzrechnerDatenbindung.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WPFAutovermietung.Finanzrechner.View.MietrechnerDatenbindung">
+            <summary>
+            MietrechnerDatenbindung
+            </summary>
+        </member>
+        <member name="M:WPFAutovermietung.Finanzrechner.View.MietrechnerDatenbindung.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WPFAutovermietung.MainWindow">
+            <summary>
+            Klasse für die Interaktionslogik
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:WPFAutovermietung.MainWindow.#ctor">
+            <summary>
+            initialisiert das Hauptfenster
+            </summary>
+        </member>
+        <member name="M:WPFAutovermietung.MainWindow.BtnLaden_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Lädt die Fahrzeugdaten bei Klick in die Grid
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+            <remarks>Der Ereignishandler wird durch Klick auf den Button 'BtnLaden' ausgeführt.
+            </remarks>
+        </member>
+        <member name="M:WPFAutovermietung.MainWindow.BtnHinzufuegen_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Fügt Fahrzeugdaten der Grid hinzu
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+            <remarks>Über die Eingabefelder kann ein Fahrzeugdatensatz der Grid hinzugefügt werden.
+            </remarks>
+        </member>
+        <member name="M:WPFAutovermietung.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WPFAutovermietung.Mietrechner">
+            <summary>
+            Interaktionslogik für Mietrechner.xaml
+            </summary>
+            <summary>
+            Mietrechner
+            </summary>
+        </member>
+        <member name="P:WPFAutovermietung.Mietrechner.EingabeText">
+            <summary>
+            hier handelt es sich um eine
+            Read-Only-Property
+            </summary>
+            <remarks>
+            Alternative Schreibweise:
+            public string EingabeText
+            {
+                get
+                {
+                    return txtAntwort.Text;
+                }
+            }
+            
+            Was macht die Property?
+            Sie liefert den Text zurück, den der Benutzer im Eingabefeld txtAntwort eingibt.
+            EingabeText ist nur lesbar (kein Setter)
+            Sie greift auf das Textfeld im Dialogfenster zu
+            Sie wird vom MainWindow verwendet, um den eingegebenen Wert abzurufen
+            
+            Kurz gesagt: EingabeText ist eine Eigenschaft,
+            die einfach nur den Text aus dem Eingabefeld txtAntwort weitergibt.
+            </remarks>
+        </member>
+        <member name="M:WPFAutovermietung.Mietrechner.#ctor(System.String)">
+            <summary>
+            Erzeugt das Fenster Mietrechner
+            </summary>
+            <param name="frage"></param>
+            <remarks>
+            Der Konstruktor wird aufgerufen, wenn im Hauptfenster
+            z. B. eingegeben wird: Mietrechner dlg = new Mietrechner("Gib die gefahrenen Kilometer ein:");
+            Es entsteht ein neues Dialogfenster, ähnlich wie ein Objekt einer Klasse.
+            </remarks>
+        </member>
+        <member name="M:WPFAutovermietung.Mietrechner.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WPFAutovermietung.Mini_Reporting">
+            <summary>
+            Mini_Reporting
+            </summary>
+        </member>
+        <member name="M:WPFAutovermietung.Mini_Reporting.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:WPFAutovermietung.Model.Autovermietung.#ctor">
+            
+        </member>
+        <member name="T:WPFAutovermietung.Model.DbService">
+            <summary>
+            Klasse für die Datenbankzugriffe (SQLite)
+            </summary>
+            <remarks>
+            Baut die Verbindung zur SQLite-DB auf, lädt alle
+            Fahrzeuge und fügt ein neues Fahrzeug hinzu.
+            Alle diese Vorgänge sind mit der DB gekoppelt.
+            </remarks>
+        </member>
+        <member name="M:WPFAutovermietung.Model.DbService.#ctor(System.String)">
+            <summary>
+            Konstruktor prüft die Verbindung zur DB und
+            erhält den Pfad als Übergabe.
+            </summary>
+            <param name="dbFilePath"></param>
+            <exception cref="T:System.ArgumentException"></exception>
+            <exception cref="T:System.IO.FileNotFoundException"></exception>
+        </member>
+        <member name="M:WPFAutovermietung.Model.DbService.LadeAlleFahrzeuge">
+            <summary>
+            Lädt die Fahrzeugdaten aus der SQLite Datenbank
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WPFAutovermietung.Model.DbService.Insert(WPFAutovermietung.Model.Fahrzeug)">
+            <summary>
+            Füge in die Datenbank ein neues Fahrzeug hinzu
+            </summary>
+            <param name="f"></param>
+        </member>
+        <member name="M:WPFAutovermietung.Model.DbService.Delete(System.String)">
+            <summary>
+            Lösche einen Datensatz aus der Datenbank
+            </summary>
+            <param name="kfzNr"></param>
+        </member>
+        <member name="M:WPFAutovermietung.Model.DbService.Update(WPFAutovermietung.Model.Fahrzeug)">
+            <summary>
+            Änderungen an einem Fahrzeugdatensatz sollen in die Datenbank übernommen werden
+            </summary>
+            <param name="f"></param>
+        </member>
+        <member name="T:WPFAutovermietung.Properties.Resources">
+            <summary>
+              Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+            </summary>
+        </member>
+        <member name="P:WPFAutovermietung.Properties.Resources.ResourceManager">
+            <summary>
+              Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+            </summary>
+        </member>
+        <member name="P:WPFAutovermietung.Properties.Resources.Culture">
+            <summary>
+              Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+              Ressourcenlookups, die diese stark typisierte Ressourcenklasse verwenden.
+            </summary>
+        </member>
+    </members>
+</doc>

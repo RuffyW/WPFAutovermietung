@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="WPFAutovermietung.Model.Autovermietung">
+    <Position X="8.5" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAAAAAAggAAAAAIAAEAAAACAABAEAAAQhA=</HashCode>
+      <FileName>Model\Autovermietung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFAutovermietung.Model.Fahrzeug">
+    <Position X="13" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAACAAAARAAAAEAKKAAEAEAAQAAABA=</HashCode>
+      <FileName>Model\Fahrzeug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFAutovermietung.Model.LKW">
+    <Position X="10" Y="6" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAiAAAEAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Model\LKW.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFAutovermietung.Model.PKW">
+    <Position X="18.25" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAEAAAEAAAAQAAAAAAA=</HashCode>
+      <FileName>Model\PKW.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFAutovermietung.Model.Metronom">
+    <Position X="18.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAAAAAACAAAgAAAAAIAAAAAAAQAI=</HashCode>
+      <FileName>Model\Metronom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

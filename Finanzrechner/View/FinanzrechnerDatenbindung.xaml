@@ -1,0 +1,89 @@
+﻿<Window x:Class="WPFAutovermietung.Finanzrechner.View.FinanzrechnerDatenbindung"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFAutovermietung.Finanzrechner.View"
+        mc:Ignorable="d"
+        
+        Title="Finanzrechner (MVVM)" Height="650" Width="900">
+
+    <Grid Background= "LightGray">
+
+        <Label Content="Kreditsumme" Margin="10,10,0,0"
+               Foreground="Gray" FontSize="18"/>
+
+        <Slider Minimum="1000" Maximum="50000"
+                TickFrequency="500"
+                IsSnapToTickEnabled="True"
+                Value="{Binding Kredit}"
+                Margin="10,50,10,0"/>
+
+        <Label Content="Zinssatz" Margin="10,90,0,0"
+               Foreground="Gray" FontSize="18"/>
+
+        <Slider Minimum="1" Maximum="10"
+                TickFrequency="0.1"
+                IsSnapToTickEnabled="True"
+                Value="{Binding Zins}"
+                Margin="10,130,10,0"/>
+
+        <Label Content="Laufzeit (Monate)" Margin="10,170,0,0"
+               Foreground="Gray" FontSize="18"/>
+
+        <Slider Minimum="1" Maximum="120"
+                TickFrequency="1"
+                IsSnapToTickEnabled="True"
+                Value="{Binding Laufzeit}"
+                Margin="10,210,10,0"/>
+
+        
+        <Expander Header="Daten"
+          Margin="20,260,0,0"
+          Width="520"
+          Height="160"
+          HorizontalAlignment="Left"
+          VerticalAlignment="Top"
+          Background="DarkGray">
+
+            <Grid Margin="10" Background="#FFF1E7E7">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Kredit -->
+                <Label Content="Kredit"
+               Grid.Row="0" Grid.Column="0"/>
+                <TextBlock Text="{Binding Kredit, StringFormat={}{0:F0} €}"
+                   Grid.Row="0" Grid.Column="1"/>
+
+                <!-- Zinssatz -->
+                <Label Content="Zinssatz"
+               Grid.Row="1" Grid.Column="0"/>
+                <TextBlock Text="{Binding Zins, StringFormat={}{0:F1} %}"
+                   Grid.Row="1" Grid.Column="1"/>
+
+                <!-- Laufzeit -->
+                <Label Content="Laufzeit"
+               Grid.Row="2" Grid.Column="0"/>
+                <TextBlock Text="{Binding Laufzeit, StringFormat={}{0} Monate}"
+                   Grid.Row="2" Grid.Column="1"/>
+            </Grid>
+        </Expander>
+
+
+
+        <TextBlock Text="{Binding Rate}"
+                   Margin="550,260,0,0"
+                   FontSize="16"
+                   FontWeight="Bold"
+                   Foreground="White"/>
+    </Grid>
+</Window>

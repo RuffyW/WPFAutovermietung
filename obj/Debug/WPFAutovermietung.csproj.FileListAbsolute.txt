@@ -1,0 +1,192 @@
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\bin\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\bin\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\bin\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\MainWindow.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\App.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\MainWindow.baml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung.g.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung\obj\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\bin\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\bin\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\bin\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\MainWindow.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\App.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\MainWindow.baml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung.g.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - final\obj\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.xml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\MainWindow.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\App.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\MainWindow.baml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.g.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.pdb
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.exe.config
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.xml
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.exe
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.pdb
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.exe.config
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\MainWindow.g.cs
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\App.g.cs
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\MainWindow.baml
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.g.resources
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.exe
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.pdb
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.exe.config
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.xml
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.exe
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\bin\Debug\WPFAutovermietung.pdb
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.exe.config
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\MainWindow.g.cs
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\App.g.cs
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\MainWindow.baml
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.g.resources
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.exe
+D:\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\09 WPFAutovermietung - Opt1\obj\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\bin\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\bin\Debug\WPFAutovermietung.xml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\bin\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\bin\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\MainWindow.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\App.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\MainWindow.baml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung.g.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\Mietrechner.baml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\10 WPFAutovermietung\obj\Debug\Mietrechner.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\Mietrechner.baml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\MainWindow.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\Mietrechner.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\App.g.cs
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\bin\Debug\WPFAutovermietung.exe.config
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\bin\Debug\WPFAutovermietung.xml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\bin\Debug\WPFAutovermietung.exe
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\bin\Debug\WPFAutovermietung.pdb
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\MainWindow.baml
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung.g.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+O:\Kingston_ E\99  Unterrichtsvorbereitungen\BAP_ Passau\0. Aktueller Unterricht\5. C# (11) , 2526\C# SToff AE\Einführung in C#\06 MVC-Pattern\02 RaumbelegungApp\11 WPFAutovermietungDelegates\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung.exe.config
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\Mietrechner.baml
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\MainWindow.g.cs
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\Mietrechner.g.cs
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\App.g.cs
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung.exe
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung.pdb
+C:\Users\11000439\source\repos\AutoFinal\bin\Debug\WPFAutovermietung.exe.config
+C:\Users\11000439\source\repos\AutoFinal\bin\Debug\WPFAutovermietung.xml
+C:\Users\11000439\source\repos\AutoFinal\bin\Debug\WPFAutovermietung.exe
+C:\Users\11000439\source\repos\AutoFinal\bin\Debug\WPFAutovermietung.pdb
+C:\Users\11000439\source\repos\AutoFinal\bin\Debug\System.Data.SQLite.dll
+C:\Users\11000439\source\repos\AutoFinal\bin\Debug\System.Data.SQLite.xml
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\MainWindow.baml
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung.g.resources
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+C:\Users\11000439\source\repos\AutoFinal\obj\Debug\WPFAutov.D2D267E9.Up2Date
+C:\Users\11000439\source\repos\AutoFinalVorl\bin\Debug\WPFAutovermietung.exe.config
+C:\Users\11000439\source\repos\AutoFinalVorl\bin\Debug\WPFAutovermietung.xml
+C:\Users\11000439\source\repos\AutoFinalVorl\bin\Debug\WPFAutovermietung.exe
+C:\Users\11000439\source\repos\AutoFinalVorl\bin\Debug\WPFAutovermietung.pdb
+C:\Users\11000439\source\repos\AutoFinalVorl\bin\Debug\System.Data.SQLite.dll
+C:\Users\11000439\source\repos\AutoFinalVorl\bin\Debug\System.Data.SQLite.xml
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung.exe.config
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\Mietrechner.baml
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\MainWindow.g.cs
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\Mietrechner.g.cs
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\App.g.cs
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\MainWindow.baml
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung.g.resources
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutov.D2D267E9.Up2Date
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung.exe
+C:\Users\11000439\source\repos\AutoFinalVorl\obj\Debug\WPFAutovermietung.pdb
+C:\Users\weidinger\Desktop\AutoFinalVorl\bin\Debug\WPFAutovermietung.exe.config
+C:\Users\weidinger\Desktop\AutoFinalVorl\bin\Debug\WPFAutovermietung.xml
+C:\Users\weidinger\Desktop\AutoFinalVorl\bin\Debug\WPFAutovermietung.exe
+C:\Users\weidinger\Desktop\AutoFinalVorl\bin\Debug\WPFAutovermietung.pdb
+C:\Users\weidinger\Desktop\AutoFinalVorl\bin\Debug\System.Data.SQLite.dll
+C:\Users\weidinger\Desktop\AutoFinalVorl\bin\Debug\System.Data.SQLite.xml
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutovermietung.csproj.AssemblyReference.cache
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\Mietrechner.baml
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\MainWindow.g.cs
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\Mietrechner.g.cs
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\App.g.cs
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutovermietung_MarkupCompile.cache
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutovermietung_MarkupCompile.lref
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\MainWindow.baml
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutovermietung.g.resources
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutovermietung.Properties.Resources.resources
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutovermietung.csproj.GenerateResource.cache
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutovermietung.csproj.CoreCompileInputs.cache
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutov.D2D267E9.Up2Date
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutovermietung.exe
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\WPFAutovermietung.pdb
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\Mini-Reporting.g.cs
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\Mini-Reporting.baml
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\Finanzrechner\View\FinanzrechnerDatenbindung.g.cs
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\Finanzrechner\View\FinanzrechnerDatenbindung.baml
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\Mietrechner\View\MietrechnerDatenbindung.g.cs
+C:\Users\weidinger\Desktop\AutoFinalVorl\obj\Debug\Mietrechner\View\MietrechnerDatenbindung.baml

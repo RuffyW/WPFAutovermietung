@@ -1,0 +1,143 @@
+﻿<Window x:Class="WPFAutovermietung.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFAutovermietung"
+        mc:Ignorable="d"
+        Title="Autovermietung"
+        Height="600"
+        Width="900"
+        WindowStartupLocation="CenterScreen">
+
+    <DockPanel>
+        <!-- Menüleiste -->
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Auswertungen">
+                <MenuItem Header="MiniReporting" Click="MenuMiniReporting_Click"/>
+                <MenuItem Header="Finanzrechner" Click="Finanzrechner_Click"/>
+                <MenuItem Header="Mietrechner" Click="Mietrechner_Click"/>
+            </MenuItem>
+        </Menu>
+    
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Buttons -->
+            <RowDefinition Height="Auto"/>
+            <!-- Eingabefelder -->
+            <RowDefinition Height="*"/>
+            <!-- DataGrid -->
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>  <!-- Metronom -->
+            <!-- Status -->
+          
+        </Grid.RowDefinitions>
+        
+            
+        <!-- 1) Buttons -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,10">
+            <Button x:Name="btnLaden"
+                    Content="Fahrzeuge laden"
+                    Width="150"
+                    Margin="0,0,10,0"
+                    Click="BtnLaden_Click"/>
+
+            <Button x:Name="btnHinzufuegen"
+                    Content="Hinzufügen"
+                    Width="120"
+                    Margin="0,0,10,0"
+                    Click="BtnHinzufuegen_Click"/>
+
+            <Button x:Name="btnBearbeiten"
+                    Content="Bearbeiten"
+                    Width="120"
+                    Margin="0,0,10,0"
+                    Click="BtnBearbeiten_Click"/>
+
+            <Button x:Name="btnLoeschen"
+                    Content="Löschen"
+                    Width="120"
+                    Margin="0,0,10,0"
+                    Click="BtnLoeschen_Click"/>
+
+            <Button x:Name="btnKosten"
+                    Content="Mietkosten berechnen"
+                    Width="180"
+                    Click="BtnKosten_Click"/>
+        </StackPanel>
+
+        <!-- 2) Fahrzeug-Eingabeformular -->
+        <GroupBox Grid.Row="1" Header="Fahrzeugdaten" Margin="0,0,0,10">
+            <Grid Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="200"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- KFZ-Nr -->
+                <Label Content="Kennzeichen:" Grid.Row="0" Grid.Column="0"/>
+                <TextBox x:Name="txtKFZ" Grid.Row="0" Grid.Column="1" Margin="5"/>
+
+                <!-- Hersteller -->
+                <Label Content="Hersteller:" Grid.Row="1" Grid.Column="0"/>
+                <TextBox x:Name="txtHersteller" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+                <!-- Modell -->
+                <Label Content="Modell:" Grid.Row="2" Grid.Column="0"/>
+                <TextBox x:Name="txtModell" Grid.Row="2" Grid.Column="1" Margin="5"/>
+
+                <!-- Mietpreis -->
+                <Label Content="Preis/km:" Grid.Row="3" Grid.Column="0"/>
+                <TextBox x:Name="txtPreis" Grid.Row="3" Grid.Column="1" Margin="5"/>
+            </Grid>
+        </GroupBox>
+
+        <!-- 3) Fahrzeuge anzeigen -->
+        <DataGrid x:Name="dgFahrzeuge"
+                  Grid.Row="2"
+                  AutoGenerateColumns="True"
+                  IsReadOnly="True"
+                  SelectionMode="Single"
+                  SelectionChanged="DgFahrzeuge_SelectionChanged"
+                  Margin="0,0,0,10"
+                  AlternatingRowBackground="LightGray"
+                  GridLinesVisibility="All"/>
+
+        <!-- 4) Statuszeile -->
+        <TextBlock x:Name="txtStatus"
+                   Grid.Row="3"
+                   FontWeight="Bold"
+                   Foreground="DarkBlue"
+                   Margin="0,10,0,0"/>
+
+      <!-- Metronom -->
+      <StackPanel Grid.Row="4" Orientation="Horizontal" Margin="0,10,0,0">
+        <Button x:Name="btnStartTick"
+                Content="Metronom Start"
+                Width="120"
+                Click="BtnStartTick_Click"
+                Margin="0,0,10,0"/>
+        <Button x:Name="btnStopTick"
+                Content="Stop"
+                Width="80"
+                Click="BtnStopTick_Click"
+                Margin="0,0,10,0"/>
+        <TextBlock x:Name="txtTickCounter"
+                   Margin="20,0,0,0"
+                   FontWeight="Bold"
+                   Foreground="DarkRed"/>
+      </StackPanel>
+
+
+    </Grid>
+        </DockPanel>
+</Window>
